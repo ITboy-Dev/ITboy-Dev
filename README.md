@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="ITboy-Dev.png" width="100%" alt="IT Boy Cyberpunk Header" />
+  <img src="ITboy-Dev.png" width="50%" alt="IT Boy Cyberpunk Header" />
 </div>
 
-<br> 
+<br>
 
 <h1 align="center">Hi there! I'm IT Boy 👋</h1>
 
