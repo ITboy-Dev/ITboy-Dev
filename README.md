@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="itboy-header.png" width="90%" alt="IT Boy Cyberpunk Header" />
+  <img src="ITboy-Dev.png" width="100%" alt="IT Boy Cyberpunk Header" />
 </div>
 
-<br> <h1 align="center">Hi there! I'm IT Boy 👋</h1>
+<br> 
+
+<h1 align="center">Hi there! I'm IT Boy 👋</h1>
 
 <p align="center">
   <b>Second-year Computer Science Student & Aspiring Full-Stack Developer</b>
@@ -40,8 +42,8 @@ Outside of coding, I am a content creator selling AI-generated visual assets on 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITboy-Dev.png&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITboy-Dev.png&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ITboy-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITboy-Dev&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
